@@ -1,5 +1,6 @@
 /**
  * @format
+ * thipsuda
  */
 
 import {AppRegistry} from 'react-native';
